@@ -6,20 +6,24 @@ using System.Collections.Generic;
 using Newtonsoft.Json;
 using Newsi.UI;
 using Android.Content;
+using Android.Support.V7.App;
 
 namespace Newsi
 {
-    [Activity(Label = "Newsi", MainLauncher = true)]
-    public class MainActivity : Activity
+    [Activity(Theme = "@style/MyTheme.Splash")]
+    public class MainActivity : AppCompatActivity
     {
         private List<Article> articles;
         private ArrayAdapter adapter;
         protected override void OnCreate(Bundle savedInstanceState)
         {
             base.OnCreate(savedInstanceState);
-
-            // Set our view from the "main" layout resource
+           
             SetContentView(Resource.Layout.Main);
+            //var toolbar = FindViewById<Toolbar>(Resource.Id.toolbar);
+            //Toolbar will now take on default Action Bar characteristics
+            //SetActionBar(toolbar);
+            // Set our view from the "main" layout resource
             CallApi();
             
         }
