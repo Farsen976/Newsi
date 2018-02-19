@@ -1,0 +1,24 @@
+Newsi.MainActivity, Newsi;md53d64d96e7888d4c031cdf96c88b472d9.MainActivity
+Newsi.MainActivity, Newsi, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md53d64d96e7888d4c031cdf96c88b472d9.MainActivity
+Newsi.MainActivity;md53d64d96e7888d4c031cdf96c88b472d9.MainActivity
+newsi.MainActivity;md53d64d96e7888d4c031cdf96c88b472d9.MainActivity
+Newsi.UI.ArticleAdapter, Newsi;md5bf2f74979b5835c55613b3ae4df9a859.ArticleAdapter
+Newsi.UI.ArticleAdapter, Newsi, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5bf2f74979b5835c55613b3ae4df9a859.ArticleAdapter
+Newsi.UI.ArticleAdapter;md5bf2f74979b5835c55613b3ae4df9a859.ArticleAdapter
+newsi.ui.ArticleAdapter;md5bf2f74979b5835c55613b3ae4df9a859.ArticleAdapter
+Newsi.UI.WebViewActivity, Newsi;md5bf2f74979b5835c55613b3ae4df9a859.WebViewActivity
+Newsi.UI.WebViewActivity, Newsi, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5bf2f74979b5835c55613b3ae4df9a859.WebViewActivity
+Newsi.UI.WebViewActivity;md5bf2f74979b5835c55613b3ae4df9a859.WebViewActivity
+newsi.ui.WebViewActivity;md5bf2f74979b5835c55613b3ae4df9a859.WebViewActivity
+Newsi.UI.WebViewActivity/WebViewClient, Newsi;md5bf2f74979b5835c55613b3ae4df9a859.WebViewActivity_WebViewClient
+Newsi.UI.WebViewActivity+WebViewClient, Newsi, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5bf2f74979b5835c55613b3ae4df9a859.WebViewActivity_WebViewClient
+Newsi.UI.WebViewActivity.WebViewClient;md5bf2f74979b5835c55613b3ae4df9a859.WebViewActivity_WebViewClient
+newsi.ui.WebViewActivity_WebViewClient;md5bf2f74979b5835c55613b3ae4df9a859.WebViewActivity_WebViewClient
+Square.Picasso.RequestCreator/ActionCallback, Square.Picasso;com.squareup.picasso.RequestCreator_ActionCallback
+Square.Picasso.RequestCreator+ActionCallback, Square.Picasso, Version=2.5.2.0, Culture=neutral, PublicKeyToken=null;com.squareup.picasso.RequestCreator_ActionCallback
+Square.Picasso.RequestCreator.ActionCallback;com.squareup.picasso.RequestCreator_ActionCallback
+com.squareup.picasso.RequestCreator_ActionCallback;com.squareup.picasso.RequestCreator_ActionCallback
+Square.Picasso.Picasso/IListenerImplementor, Square.Picasso;mono.com.squareup.picasso.Picasso_ListenerImplementor
+Square.Picasso.Picasso+IListenerImplementor, Square.Picasso, Version=2.5.2.0, Culture=neutral, PublicKeyToken=null;mono.com.squareup.picasso.Picasso_ListenerImplementor
+Square.Picasso.Picasso.IListenerImplementor;mono.com.squareup.picasso.Picasso_ListenerImplementor
+mono.com.squareup.picasso.Picasso_ListenerImplementor;mono.com.squareup.picasso.Picasso_ListenerImplementor
