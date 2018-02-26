@@ -128,6 +128,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Core\Article.cs" />
+    <Compile Include="Core\ArticleFavoris.cs" />
     <Compile Include="Core\NewsiAPI.cs" />
     <Compile Include="Core\RootObject.cs" />
     <Compile Include="Core\Source.cs" />
