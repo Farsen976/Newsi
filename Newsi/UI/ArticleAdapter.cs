@@ -66,6 +66,10 @@ namespace Newsi.UI
             {
                 Picasso.With(context).Load(currentItem.urlToImage?.Replace("www.", "")).Into(image);
             }
+            else
+            {
+                image.SetImageResource(0);
+            }
             //fill in your items
             //holder.Title.Text = "new text here";
 
